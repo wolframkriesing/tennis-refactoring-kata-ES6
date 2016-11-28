@@ -1,12 +1,12 @@
 {
   "name": "tennis-refactoring-kata",
   "version": "0.0.0",
-  "description": "Tennis refactoring kata",
+  "description": "Tennis refactoring kata, original code at https://github.com/emilybache/Tennis-Refactoring-Kata",
   "main": "TennisGame1.js",
   "scripts": {
     "test": "mocha TennisGame.spec.js --compilers js:babel-register"
   },
-  "author": "",
+  "author": "Emily Bache",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.18.0",
